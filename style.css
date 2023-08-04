@@ -1,0 +1,65 @@
+body {
+    background-color:white;
+  }
+
+
+  nav{
+    background-color: yellow;
+    font-size:65px;
+    text-align:center;
+    
+    
+
+  }
+   header{
+    text-align:center;
+    color:bisque;
+    background-color:blueviolet;
+    padding:5px;
+    font-size:25px;
+
+  }
+   
+
+   
+  h1{
+    color:black;
+    text-align: center;
+    background-color:rgb(176, 202, 255);
+    font-size: 22px;
+    padding:10px;
+    
+    
+  }
+  
+   p {
+    
+    font-family:kurale;
+    font-size: 23px;
+    text-align:center;
+    color:blue; 
+    padding-left:30px;
+    padding-right:30px;
+
+     }
+
+ 
+
+  
+  a{
+    font-size:larger;
+    color:blue;
+    
+  }
+  
+ 
+  h2{
+    color:red;
+    background-color: black;
+    background-size:50px;
+    font-size: 30px;
+  }
+  li{
+    font-size:20px;
+  }
+  
